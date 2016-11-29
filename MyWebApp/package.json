@@ -1,0 +1,19 @@
+{
+  "name": "mywebapplication",
+  "version": "1.0.0",
+  "description": "my service web application",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurenchen346/MyWebApp.git"
+  },
+  "author": "lang,asami, amir",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/laurenchen346/MyWebApp/issues"
+  },
+  "homepage": "https://github.com/laurenchen346/MyWebApp#readme"
+}
