@@ -1,6 +1,6 @@
 var http=require("http");
 var fs=require("fs");
-var fileName="public/index.html";
+var fileName="home.html";
 
 
 http.createServer(function(request,response) {
